@@ -6,5 +6,3 @@ In this repo you will find :
 - Code for computing the activation trajectory performing early-stopping
 - Notebook : TensorFlow example for how to apply the method.
 - Notebook : PyTorch example for how to apply the method.
-
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>

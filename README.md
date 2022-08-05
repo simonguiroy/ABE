@@ -4,5 +4,5 @@ This repository includes code accompagnying our paper **Improving Meta-Learning 
 
 In this repo you will find :
 - Simple code implementation of ABE (computing the activation trajecories, finding the critical layer and critical moment, early-stopping at the critical time)
-- `ABE_tensorflow.ipynb` : TensorFlow example for how to apply the method.
-- Notebook : PyTorch example for how to apply the method.
+- `ABE_tensorflow.ipynb` : Jupyter notebook example for how to apply the method, implemented in Tensorflow
+- `ABE_pytorch.ipynb` : Jupyter notebook example for how to apply the method, implemented in PyTorch

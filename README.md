@@ -5,3 +5,4 @@ This repository includes code accompagnying our paper **Improving Meta-Learning 
 In this repo you will find :
 - `ABE_tensorflow.ipynb` : Jupyter notebook example for how to apply the method, implemented in Tensorflow
 - `ABE_pytorch.ipynb` : Jupyter notebook example for how to apply the method, implemented in PyTorch
+- `activation_based_early_stopping.py` : Simple implementation of the functions of ABE, namely for computing the aggregated moments and obtain the neural activation trajectory (Equation 3), and computing the objective value (Equation 4) which is maximized to identify the critical layer, critical moment, and critical time. The implementation is in PyTorch (for GPU support) but it can easily be implemented in Tensoflow (see notebook), or in Numpy, and even in pure python.
